@@ -1,4 +1,6 @@
-Intro to JavaScript Documentation
+# Intro to JavaScript Documentation
+
+Link to final project: 
 
 # Week 1:
 
